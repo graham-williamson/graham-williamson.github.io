@@ -1013,7 +1013,7 @@ plt.show();
 ```
 
 
-![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_12_0.png)
+![png](/images/2019-10-11-kickstarter_files/2019-10-11-kickstarter_12_0.png)
 
 
 
@@ -1031,7 +1031,7 @@ plt.show();
 ```
 
 
-![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_13_0.png)
+![png](/images/2019-10-11-kickstarter_files/2019-10-11-kickstarter_13_0.png)
 
 
 
@@ -1040,7 +1040,7 @@ df.duration.hist(bins=30);
 ```
 
 
-![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_14_0.png)
+![png](/images/2019-10-11-kickstarter_files/2019-10-11-kickstarter_14_0.png)
 
 
 
