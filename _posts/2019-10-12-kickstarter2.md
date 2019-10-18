@@ -1,3 +1,10 @@
+---
+title: "kicktsrater"
+date: 2019-10-12
+tags: [DecisionTree]
+excerpt: "this is an excerpt"
+image: /images/headshot.jpg"
+---
 
 # Predictions of the Outcome of Kickstarter Campaigns
 
