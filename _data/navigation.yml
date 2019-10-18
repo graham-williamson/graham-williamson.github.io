@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "CV"
-    /CV/
+    url: /CV/
   - title: "Projects Portfolio"
-    /projects/
+    url: /projects/
   - title: "Algorithms"
-    /algorithms/
+    url: /algorithms/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
