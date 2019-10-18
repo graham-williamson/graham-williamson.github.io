@@ -1,12 +1,3 @@
----
-layout: post
-title:  "Kickstarter Predictions"
-date:   2019-10-17
-tags: 
-header:
-  image: "images/kickstarter_logo.jpg"
-excerpt: "Using Decision Tree Classifier to predict success of Kickstarter campaigns"
----
 
 # Predictions of the Outcome of Kickstarter Campaigns
 
@@ -1022,7 +1013,7 @@ plt.show();
 ```
 
 
-![png](Kick%20Starter%20Project%20Success_files/Kick%20Starter%20Project%20Success_12_0.png)
+![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_12_0.png)
 
 
 
@@ -1040,7 +1031,7 @@ plt.show();
 ```
 
 
-![png](Kick%20Starter%20Project%20Success_files/Kick%20Starter%20Project%20Success_13_0.png)
+![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_13_0.png)
 
 
 
@@ -1049,7 +1040,7 @@ df.duration.hist(bins=30);
 ```
 
 
-![png](Kick%20Starter%20Project%20Success_files/Kick%20Starter%20Project%20Success_14_0.png)
+![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_14_0.png)
 
 
 
@@ -1081,7 +1072,7 @@ sns.barplot(x=grouped.index, y=grouped.percent_won,
 ```
 
 
-![png](Kick%20Starter%20Project%20Success_files/Kick%20Starter%20Project%20Success_18_0.png)
+![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_18_0.png)
 
 
 
@@ -1880,7 +1871,7 @@ grid.best_params_
 
 
 
-![png](Kick%20Starter%20Project%20Success_files/Kick%20Starter%20Project%20Success_35_1.png)
+![png](2019-10-11-kickstarter_files/2019-10-11-kickstarter_35_1.png)
 
 
 
