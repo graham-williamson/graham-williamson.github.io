@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Kickstarter Predictions"
-date:   2019-10-17 12:07:25 +0000
-categories:
-  - data
+date:   2019-10-17
+tags: 
+header:
+  image: "images/kickstarter_logo.jpg"
+excerpt: "Using Decision Tree Classifier to predict success of Kickstarter campaigns"
 ---
 
 # Predictions of the Outcome of Kickstarter Campaigns
