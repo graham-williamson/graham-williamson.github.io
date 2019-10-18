@@ -62,7 +62,7 @@ df[df['evaluation_set']==True]
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -472,7 +472,7 @@ df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -713,7 +713,7 @@ df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1092,7 +1092,7 @@ df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1439,7 +1439,7 @@ df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1732,7 +1732,7 @@ pd.DataFrame(grid.cv_results_)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1820,12 +1820,12 @@ grid.best_params_
 
 
     ---------------------------------------------------------------------------
-
+    
     ValueError                                Traceback (most recent call last)
-
+    
     <ipython-input-102-8991a9dca522> in <module>
     ----> 1 plt.plot(range(1, 2), grid.cv_results_['mean_test_score'])
-    
+
 
     ~/miniconda3/envs/ads2/lib/python3.7/site-packages/matplotlib/pyplot.py in plot(scalex, scaley, data, *args, **kwargs)
        2793     return gca().plot(
