@@ -1,9 +1,9 @@
 ---
-title: "kicktsrater"
+title: "KickStarter MD"
 date: 2019-10-12
 tags: [DecisionTree]
 excerpt: "this is an excerpt"
-image: /images/headshot.jpg"
+image: "/images/headshot_oval.jpg"
 mathjax: "true"
 ---
 
