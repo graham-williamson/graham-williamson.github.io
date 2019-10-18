@@ -1,6 +1,6 @@
 ---
 title: "Stories"
-permalink: /stories/
+permalink: /projects/
 header:
   image: "/images/campfire.jpg"
 ---
