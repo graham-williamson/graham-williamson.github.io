@@ -5,6 +5,7 @@ tags: [DecisionTree]
 excerpt: "this is an excerpt"
 image: "/images/headshot_oval.jpg"
 mathjax: "true"
+classes: wide
 ---
 
 # Predictions of the Outcome of Kickstarter Campaign
