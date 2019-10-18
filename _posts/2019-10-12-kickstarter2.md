@@ -4,9 +4,10 @@ date: 2019-10-12
 tags: [DecisionTree]
 excerpt: "this is an excerpt"
 image: /images/headshot.jpg"
+mathjax: "true"
 ---
 
-# Predictions of the Outcome of Kickstarter Campaigns
+# Predictions of the Outcome of Kickstarter Campaign
 
 Kickstarter is a crowdfunding platform with a community of more than 10 million people comprising of creative, tech enthusiasts who help in bringing new projects to life.
 
